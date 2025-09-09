@@ -16,3 +16,9 @@ An interactive Streamlit web app analyzing NYC Citi Bike data with machine learn
 - Scikit-learn for machine learning
 - XGBoost & LightGBM models
 
+## How to Run Locally
+```bash
+git clone [your-repo]
+cd Project1
+pip install -r requirements.txt
+streamlit run app.py
