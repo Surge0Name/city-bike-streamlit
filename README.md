@@ -18,7 +18,7 @@ An interactive Streamlit web app analyzing NYC Citi Bike data with machine learn
 
 ## How to Run Locally
 ```bash
-git clone [your-repo]
+git clone https://github.com/Surge0Name/city-bike-streamlit.git
 cd Project1
 pip install -r requirements.txt
 streamlit run app.py
