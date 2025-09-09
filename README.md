@@ -1,2 +1,18 @@
-# city-bike-streamlit
-A streamlit app that visualize New York city bike usage from January to April 2023. The data is provided by Citi Bike NYC
+# 🚴 NYC Bike Share Analytics Dashboard
+
+An interactive Streamlit web app analyzing NYC Citi Bike data with machine learning predictions.
+
+## Features
+- 📊 Interactive data visualizations
+- 📈 Time series analysis of bike usage  
+- 🗺️ Geographic heatmaps of bike traffic
+- 👥 Rider behavior analysis (Members vs Casual)
+- 🤖 ML trip duration predictor (Random Forest)
+
+## Tech Stack
+- Python + Streamlit
+- Pandas for data processing
+- Plotly for interactive charts
+- Scikit-learn for machine learning
+- XGBoost & LightGBM models
+
