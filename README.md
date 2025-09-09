@@ -15,6 +15,9 @@ An interactive Streamlit web app analyzing NYC Citi Bike data with machine learn
 - Plotly for interactive charts
 - Scikit-learn for machine learning
 - XGBoost & LightGBM models
+- 
+ ## Live Demo
+[👉 View deployed app on Streamlit Cloud][(https://nyc-citibike-app.streamlit.app)]
 
 ## How to Run Locally
 ```bash
